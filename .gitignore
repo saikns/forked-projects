@@ -26,3 +26,19 @@
 *.exe
 *.out
 *.app
+
+# Folders
+*bin/*
+*lib/*
+
+# Temp files
+*~
+*.swp
+*.swo
+
+# CMake files
+*CMakeCache*
+*.cmake
+*CMakeFiles/
+*Makefile
+
