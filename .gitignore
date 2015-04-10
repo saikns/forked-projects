@@ -28,8 +28,8 @@
 *.app
 
 # Folders
-*bin/*
-*lib/*
+bin/
+lib/
 
 # Temp files
 *~
